@@ -8,6 +8,10 @@ The source code in C++ can be found in [code/c++](https://github.com/letizia-dac
 It is sufficient to compile [main.cpp](https://github.com/letizia-dachille/algorithms_and_data_structures/blob/main/code/c++/main.cpp), then run the compiled file.
 
 All files are accompanied by brief comments (written in italian). <br>
+
+# Example
+An example of operation is presented below. Selecting <em>Charles de Gaulle Etoile</em> (27457) as the departure stop and <em>Quatre Routes</em> (10122) as the arrival stop, wanting to leave at 11:05 a.m. and wanting to take less than an hour to reach the destination, the following result is obtained.  
+![example](https://github.com/letizia-dachille/algorithms_and_data_structures/blob/main/sample_output.png)
   
 # License
 The content of this project itself is licensed under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/), and the underlying source code used to format and display that content is licensed under the [GNU General Public License v3.0](https://github.com/letizia-dachille/algorithms_and_data_structures/blob/main/LICENSE).
