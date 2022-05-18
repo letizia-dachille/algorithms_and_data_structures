@@ -11,6 +11,7 @@ All files are accompanied by brief comments (written in italian). <br>
 
 # Example
 An example of operation is presented below. Selecting <em>Charles de Gaulle Etoile</em> (27457) as the departure stop and <em>Quatre Routes</em> (10122) as the arrival stop, wanting to leave at 11:05 a.m. and wanting to take less than an hour to reach the destination, the following result is obtained.  
+
 ![example](https://github.com/letizia-dachille/algorithms_and_data_structures/blob/main/sample_output.png)
   
 # License
