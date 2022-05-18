@@ -5,7 +5,7 @@ Title of the project: <em>City route planner</em>
   
 # Description
 The source code in C++ can be found in [code/c++](https://github.com/letizia-dachille/algorithms_and_data_structures/blob/main/code/c++). The data is located in the [paris](https://github.com/letizia-dachille/algorithms_and_data_structures/blob/main/paris) folder, it has been manipulated through some scripts in bash to result in a partial sorting.
-The main code to be executed is [main.cpp](https://github.com/letizia-dachille/algorithms_and_data_structures/blob/main/code/c++/main.cpp).
+It is sufficient to compile [main.cpp](https://github.com/letizia-dachille/algorithms_and_data_structures/blob/main/code/c++/main.cpp), then run the compiled file.
 
 All files are accompanied by brief comments (written in italian). <br>
   
